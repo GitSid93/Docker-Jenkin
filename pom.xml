@@ -4,4 +4,7 @@
   <artifactId>docker-jenkin</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <description>	</description>
+  <build>
+  <finalName>docker-jenkin</finalName>
+  </build>
 </project>
